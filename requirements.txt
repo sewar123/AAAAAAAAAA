@@ -3,6 +3,3 @@ pyTelegramBotAPI
 json
 virtualenv
 pyrogram
-أبـــو ݛۅٛاڼ الحزين
-
-احـــمـــد أســـعـــد
