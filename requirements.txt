@@ -1,5 +1,3 @@
-﻿Flask
+Flask
 pyTelegramBotAPI
-json
-virtualenv
-pyrogram
+
